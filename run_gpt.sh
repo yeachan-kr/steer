@@ -1,0 +1,3 @@
+export OPENAI_API_KEY="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"
+python inference_black.py --task siqa --type train
+python inference_black.py --task siqa --type dev
